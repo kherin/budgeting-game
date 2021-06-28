@@ -1,0 +1,12 @@
+{
+  "name": "budget-money-game",
+  "displayName": "budget-money-game",
+  "expo": {
+    "name": "budget-money-game",
+    "slug": "budget-money-game",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
